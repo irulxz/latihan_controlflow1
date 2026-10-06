@@ -140,4 +140,3 @@ void main() {
   // Agustus memiliki 31 hari
 }
 
-// i'm cung
